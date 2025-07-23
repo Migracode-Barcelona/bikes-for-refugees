@@ -4,7 +4,7 @@ Fun fact, [Bikes For Refugees](https://www.bikesforrefugees.scot/) is a real pro
 
 ## Set up
 
-1. **Clone** [this repository](https://github.com/CodeYourFuture/bikes-for-refugees/) onto your machine. You can use this [video guide](https://www.youtube.com/watch?v=ILJ4dfOL7zs) to refresh your memory if you're stuck.
+1. **Clone** [this repository](https://github.com/Migracode-Barcelona/bikes-for-refugees.git) onto your machine. You can use this [video guide](https://www.youtube.com/watch?v=ILJ4dfOL7zs) to refresh your memory if you're stuck.
 1. Open up the repository you just cloned using VSCode.
 1. Make a new branch for your work in the form `cohort/name`. For example: `NW7/GermanBencci`
 
@@ -14,7 +14,7 @@ You're now ready to code!
 
 The aim of the exercise is for your webpage to look like the following screenshot:
 
-![Bike For Refugees: final design](https://github.com/CodeYourFuture/bikes-for-refugees/blob/main/bikes-for-refugees_final-design.png)
+![Bike For Refugees: final design](https://github.com/Migracode-Barcelona/bikes-for-refugees/blob/main/bikes-for-refugees_final-design.png)
 
 Open the `index.html` file in your browser, and compare it to the image of the final result. What's different?
 
@@ -54,6 +54,6 @@ Add a hover effect using CSS, so that:
 
 ## Submit your work
 
-Once you've finished, **open a pull request**.
+Once you've finished, **open a pull request to MigraCode Barcelona**.
 
-As always, you can use this guide if you need to refresh your memory 👉 https://curriculum.codeyourfuture.io/guides/create-a-pull-request/
+
