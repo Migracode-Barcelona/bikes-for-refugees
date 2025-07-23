@@ -29,7 +29,7 @@ It's also good practice to include a description of the image in the `alt` attri
 
 Make sure to add some CSS to make the images look like the design.
 
-### Exercise 3) Style buttons
+### Exercise 3) Style the buttons
 
 There are 3 buttons on the page: can you style them like the design?
 **Remember**, re-use styles as much as possible by using CSS classes.
